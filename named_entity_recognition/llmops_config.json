@@ -2,28 +2,28 @@
     "envs":[
             {
                 "ENV_NAME": "pr",
-                "RUNTIME_NAME": "",
-                "KEYVAULT_NAME": "",
-                "RESOURCE_GROUP_NAME": "",
-                "WORKSPACE_NAME": "",
+                "RUNTIME_NAME": "20230319.v1",
+                "KEYVAULT_NAME": "kv-llmworks557133083496",
+                "RESOURCE_GROUP_NAME": "rg-llmworkshopai",
+                "WORKSPACE_NAME": "llmopsworkshop-cj",
                 "STANDARD_FLOW_PATH": "flows/standard",
                 "EVALUATION_FLOW_PATH": "flows/evaluation"
             },
             {
                 "ENV_NAME": "dev",
-                "RUNTIME_NAME": "",
-                "KEYVAULT_NAME": "",
-                "RESOURCE_GROUP_NAME": "",
-                "WORKSPACE_NAME": "",
+                "RUNTIME_NAME": "20230319.v1",
+                "KEYVAULT_NAME": "kv-llmworks557133083496",
+                "RESOURCE_GROUP_NAME": "rg-llmworkshopai",
+                "WORKSPACE_NAME": "llmopsworkshop-cj",
                 "STANDARD_FLOW_PATH": "flows/standard",
                 "EVALUATION_FLOW_PATH": "flows/evaluation"
             },
             {
                 "ENV_NAME": "postprodeval",
-                "RUNTIME_NAME": "",
-                "KEYVAULT_NAME": "",
-                "RESOURCE_GROUP_NAME": "",
-                "WORKSPACE_NAME": "",
+                "RUNTIME_NAME": "20230319.v1",
+                "KEYVAULT_NAME": "kv-llmworks557133083496",
+                "RESOURCE_GROUP_NAME": "rg-llmworkshopai",
+                "WORKSPACE_NAME": "llmopsworkshop-cj",
                 "STANDARD_FLOW_PATH": "flows/post-production-evaluation"
             }
     ]
